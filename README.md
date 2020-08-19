@@ -1,4 +1,4 @@
-### Hi there 👋###
+### Hi there 👋
 # Hello, I am Namkyoo Kang (강 남규, Zach). 
 
 <!--
