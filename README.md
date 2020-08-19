@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# Hello, I am Namkyoo Kang (강 남규, Zach). 
 <!--
 **ZachNK/ZachNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##- 🔭 I’m currently working on AR/VR research projects at Electronics and Telecommunications Research Institute (ETRI) in Rep. Korea.
+##- 🌱 I’m also currently learning Machine vision, Deep Learning, and Computer vision.
+##- 📫 How to reach me: E-mail for nkangzach@gmail.com
