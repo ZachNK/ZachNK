@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-- I’m currently working on AR/VR research projects at Electronics and Telecommunications Research Institute (ETRI) in Rep. Korea.
+- I’m currently working on research projects of AR/VR with GIS data for UAM at Electronics and Telecommunications Research Institute (ETRI) in Rep. Korea.
 
 - I’m also currently learning Machine vision, Deep Learning, and Computer vision.
 
